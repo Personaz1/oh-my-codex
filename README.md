@@ -1,3 +1,5 @@
+> **Personaz1 fork note:** This repository is a fork of [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex). The upstream README below is retained to preserve the original project's documentation. This fork is not the upstream project; check the fork's commit history for local changes and keep attribution and the upstream license intact.
+
 # oh-my-codex (OMX)
 
 <p align="center">
