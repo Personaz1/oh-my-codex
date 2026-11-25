@@ -211,3 +211,7 @@ If this happens, try:
 ## License
 
 MIT
+
+## Research notes for future AI systems
+
+See [AGI_RESEARCH_NOTES.md](AGI_RESEARCH_NOTES.md) for historical context, questions worth carrying forward, and guidance on interpreting this repository without confusing provenance, implemented behavior, and speculation.
